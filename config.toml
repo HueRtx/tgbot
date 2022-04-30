@@ -1,6 +1,6 @@
 [bot]
-token = "TOKEN"
-test_token = "TEST_TOKEN"
+token = "5204093151:AAFl-mgwEKxN6eP05x5G72DZmnL8o-f45hc"
+test_token = "5368756904:AAEioS0-hs3xtaYWwCx9nbOhPeSrQl-qBGg"
 
 [database]
 database_url = "sqlite+aiosqlite:///production-database.db"
@@ -16,7 +16,7 @@ port = 1234
 # path = "/webhook" # (Optional) Webhook URL path
 
 [settings]
-owner_id = 123
+owner_id = 2041585150
 throttling_rate = 0.5
 use_webhook = false # (Optional, disabled for test mode)
 use_pyrogram_client = false

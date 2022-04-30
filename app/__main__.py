@@ -24,7 +24,7 @@ from app.utils import db
 
 async def on_startup(dispatcher: Dispatcher, bot: Bot):
     # noinspection PyUnresolvedReferences
-    from app import dialogs, filters, handlers, inline, middlewares
+    from app import filters, handlers, middlewares
 
     await set_bot_commands(app.bot)
     if config.settings.use_webhook and not app.arguments.test:
