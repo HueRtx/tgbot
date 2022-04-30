@@ -9,3 +9,5 @@ sqlalchemy==1.4.36
 tgcrypto==1.2.3
 toml==0.10.2
 aiohttp==3.8.1
+psutil
+py-cpuinfo
