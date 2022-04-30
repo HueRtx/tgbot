@@ -4,14 +4,16 @@ from aiogram.types import BotCommand, BotCommandScopeChat, BotCommandScopeDefaul
 import app
 
 users_commands = {
-    "support": "Отправить обращение администратору",
     "help": "Показать список команд",
-    "about": "Показать информацию о боте",
+    "wttr": "Показать погоду в городе. Подробнее в /help",
+    "bio": "О создателе",
+    "roadmap": "Планы на бота",
 }
 
 owner_commands = {
     "ping": "Check bot ping",
     "stats": "Show bot stats",
+    "user": "Show user info",
 }
 
 
