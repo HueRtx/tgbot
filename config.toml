@@ -1,6 +1,6 @@
 [bot]
 token = "5198628155:AAHG6UJkfcz11hFyc-Pe9iJxM1uGPEBeJB4"
-test_token = "5368756904:AAFfaOwc77CsWAOQFn2-TBmEA-4Sg36uYkk"
+test_token = "5368756904:AAFfaOwc77CsWAOQFn2-TBmEA-4Sg36uYkk" #lol this tokens don`t working))))
 
 [database]
 database_url = "sqlite+aiosqlite:///production-database.db"
