@@ -6,7 +6,7 @@
 - 1+ core processor
 - Normal internet
 ### Installing
-debian baseed systems <code>apt update && apt install python3 python3-pip git && git clone https://github.com/HueRtx/tgbot && cd tgbot</code>
+debian baseed systems <code>apt update && apt install python3 python3-pip git && git clone https://github.com/HueRtx/tgbot && cd tgbot && pip install -r requirements.txt</code>
 ### Configuration
 open config.toml and edit tokens
 ### Starting
