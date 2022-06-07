@@ -2,7 +2,7 @@
 ## Installing & starting
 ### Requirements
 - Python 3.8+
-- 512M+ ram
+- 512M+ ram (for normal system functionallity)
 - 1+ core processor
 - Normal internet
 ### Installing
